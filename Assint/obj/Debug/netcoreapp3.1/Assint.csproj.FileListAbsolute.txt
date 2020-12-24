@@ -1,0 +1,13 @@
+C:\Users\12144\source\repos\Assint\Assint\bin\Debug\netcoreapp3.1\Assint.exe
+C:\Users\12144\source\repos\Assint\Assint\bin\Debug\netcoreapp3.1\Assint.deps.json
+C:\Users\12144\source\repos\Assint\Assint\bin\Debug\netcoreapp3.1\Assint.runtimeconfig.json
+C:\Users\12144\source\repos\Assint\Assint\bin\Debug\netcoreapp3.1\Assint.runtimeconfig.dev.json
+C:\Users\12144\source\repos\Assint\Assint\bin\Debug\netcoreapp3.1\Assint.dll
+C:\Users\12144\source\repos\Assint\Assint\bin\Debug\netcoreapp3.1\Assint.pdb
+C:\Users\12144\source\repos\Assint\Assint\obj\Debug\netcoreapp3.1\Assint.csprojAssemblyReference.cache
+C:\Users\12144\source\repos\Assint\Assint\obj\Debug\netcoreapp3.1\Assint.AssemblyInfoInputs.cache
+C:\Users\12144\source\repos\Assint\Assint\obj\Debug\netcoreapp3.1\Assint.AssemblyInfo.cs
+C:\Users\12144\source\repos\Assint\Assint\obj\Debug\netcoreapp3.1\Assint.csproj.CoreCompileInputs.cache
+C:\Users\12144\source\repos\Assint\Assint\obj\Debug\netcoreapp3.1\Assint.dll
+C:\Users\12144\source\repos\Assint\Assint\obj\Debug\netcoreapp3.1\Assint.pdb
+C:\Users\12144\source\repos\Assint\Assint\obj\Debug\netcoreapp3.1\Assint.genruntimeconfig.cache
